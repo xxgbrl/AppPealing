@@ -18,7 +18,7 @@ AppPealing has been tested on Android 14 with [LSPosed](https://github.com/LSPos
 **Installation**
 1. Install Magisk following [this guide](https://topjohnwu.github.io/Magisk/install.html), and enable Zygisk.
 1. Install [LSPosed](https://github.com/LSPosed/LSPosed).
-1. Download the AppPealing from [releases](https://github.com/LEAGUE-OF-NINE/AppPealing/releases).
+1. Download the AppPealing from [releases](https://github.com/xxgbrl/AppPealing/releases).
 1. Enable AppPealing in LSPosed for apps you want to neuter AppSealing for. 
 1. Reboot your device.
 
